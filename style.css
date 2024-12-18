@@ -11,6 +11,14 @@ h1 {
   text-shadow: 2px 2px 10px purple;
 }
 
+h2 {
+  color: purple;
+  font-size: 35px;
+  font-family: 'Brush Script MT', cursive;
+  text-decoration-color: purple;
+  text-shadow: 2px 2px 10px purple;
+}
+
 img {
   width: 25%;
   border: dotted purple 10px;
